@@ -1,0 +1,17 @@
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\bin\Debug\DataComparisonTool.exe.config
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\bin\Debug\DataComparisonTool.exe
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\bin\Debug\DataComparisonTool.pdb
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.Form1.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.Properties.Resources.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.csproj.GenerateResource.cache
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.exe
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.pdb
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\bin\Debug\ExcelDataReader.dll
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.csproj.CopyComplete
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.MainForm.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.FileImportForm.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.CustomMessageBox.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.UserControlReport.resources
+C:\Users\Kris\source\repos\DataComparisonTool\DataComparisonTool\obj\Debug\DataComparisonTool.ConfigurationForm.resources

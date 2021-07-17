@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DataComparisonTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultDuplicateRecordHandling" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Retain and consider the first occurence when matching records. Remove other duplicates.</Value>
+    </Setting>
+    <Setting Name="ExportReportsAs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tab-delimited text file (*.txt)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
